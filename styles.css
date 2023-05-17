@@ -27,11 +27,12 @@ body{
     grid-template-columns: repeat(2,1fr);
     justify-items: center;
     align-items: center;
+    font-size: 3rem;
 }
 
 .result-score{
     margin-left: .1rem;
-    font-size: .9rem;
+    font-size: 2rem;
     color: #333;
 }
 
@@ -41,5 +42,5 @@ body{
 
 .result-selection.winner{
     opacity: 1;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
